@@ -1,0 +1,58 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.0.639693989)
+
+newmtl desk
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0 0 0
+Ks 0.80000001 0.80000001 0.80000001
+Ke 0 0 0
+Tf 0 0 0
+d 1
+Ns 19.999994
+illum 2
+map_Kd Computer & desk & desk lamp.fbm\desk_Albedo.png
+
+newmtl computer
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0 0 0
+Ks 0.80000001 0.80000001 0.80000001
+Ke 0 0 0
+Tf 0 0 0
+d 1
+Ns 19.999994
+illum 2
+map_Kd Computer & desk & desk lamp.fbm\computer_Albedo.png
+
+newmtl computerScreenImg
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0 0 0
+Ks 0.80000001 0.80000001 0.80000001
+Ke 0 0 0
+Tf 0 0 0
+d 1
+Ns 19.999994
+illum 2
+map_Kd Computer & desk & desk lamp.fbm\computerScreenImg_Albedo.png
+
+newmtl deskLamp
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0 0 0
+Ks 0.80000001 0.80000001 0.80000001
+Ke 0 0 0
+Tf 0 0 0
+d 1
+Ns 19.999994
+illum 2
+map_Kd Computer & desk & desk lamp.fbm\deskLamp_Albedo.png
+
+newmtl glass
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0 0 0
+Ks 0.80000001 0.80000001 0.80000001
+Ke 0 0 0
+Tf 0 0 0
+d 1
+Ns 19.999994
+illum 2
+map_Kd Computer & desk & desk lamp.fbm\deskLamp_Metallic.png
+

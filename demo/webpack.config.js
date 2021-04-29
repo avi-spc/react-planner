@@ -55,7 +55,7 @@ module.exports = (env, self) => {
 
         }]
       }, {
-        test: /\.(jpe?g|png|gif|mtl|obj)$/i,
+        test: /\.(jpe?g|png|gif|mtl|obj|gltf|glb)$/i,
         use: [{
           loader: 'file-loader',
           options: {
